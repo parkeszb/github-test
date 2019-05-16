@@ -17,3 +17,7 @@ let chin = 15;
 console.log(`Number of chins = ${chin}`);
 
 // edit --> testing branches
+
+let chin = 20;
+
+console.log(`Number of chins = ${chin}`);
