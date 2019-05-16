@@ -25,3 +25,7 @@ console.log(`Number of chins = ${chin}`);
 let chin = 25;
 
 console.log(`Number of chins = ${chin}`);
+
+let chin = 30;
+
+console.log(`Number of chins = ${chin}`);
